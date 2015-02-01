@@ -24,3 +24,5 @@ Gameplay:
 You are Jay.  Use the arrow keys to jay-walk across the city and destroy the evil cars by crashing into them repeatedly, before they can run you over.  Once all the cars are destroyed, victory is yours; jay-walk as you please.  Pay no heed to the cats and trashcans, they are only the asthetics of a dirty city.  Who will win; pedestrian or car?
 
 
+[Play Online](http://jamallharris.me:9000/).
+
