@@ -38,6 +38,7 @@
 			this.load.spritesheet('forest-tiles', 'assets/images/foresttiles_0.png', 32, 32);
 			this.load.spritesheet('hero', 'assets/images/hero.png', 32, 32);
 			this.load.spritesheet('orc', 'assets/images/orc.png', 32, 32);
+            this.load.spritesheet('explosion','assets/images/explosion.png',127,127);
 
 		},
 
